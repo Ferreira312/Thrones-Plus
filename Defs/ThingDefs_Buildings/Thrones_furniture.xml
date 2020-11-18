@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-
+ 
   <!--===========================================Throne===========================================-->
-
+ 
 <ThingDef ParentName="FurnitureWithQualityBase">
-    <defName>Throne_A</defName>
+    <defName>ThroneA</defName>
     <label>Raid Stabber throne</label>
     <drawGUIOverlay>true</drawGUIOverlay>
     <drawGUIOverlayQuality>false</drawGUIOverlayQuality>
@@ -82,10 +82,10 @@
       </damageData>
     </graphicData>
   </ThingDef>
-  
-  
+ 
+ 
   <ThingDef ParentName="FurnitureWithQualityBase">
-    <defName>Throne_B</defName>
+    <defName>ThroneB</defName>
     <label>Round Back throne</label>
     <drawGUIOverlay>true</drawGUIOverlay>
     <drawGUIOverlayQuality>false</drawGUIOverlayQuality>
@@ -163,9 +163,9 @@
       </damageData>
     </graphicData>
   </ThingDef>
-  
+ 
     <ThingDef ParentName="FurnitureWithQualityBase">
-    <defName>Throne_C</defName>
+    <defName>ThroneC</defName>
     <label>Half chair throne</label>
     <drawGUIOverlay>true</drawGUIOverlay>
     <drawGUIOverlayQuality>false</drawGUIOverlayQuality>
@@ -243,13 +243,13 @@
       </damageData>
     </graphicData>
   </ThingDef>
-  
-   
-  
+ 
+ 
+ 
   <!--===========================================GrandThrone===========================================-->
-
+ 
   <ThingDef ParentName="FurnitureWithQualityBase">
-    <defName>GrandThrone_A</defName>
+    <defName>GrandThroneA</defName>
     <label>Spiky Flat Grand Throne</label>
     <drawGUIOverlay>true</drawGUIOverlay>
     <drawGUIOverlayQuality>false</drawGUIOverlayQuality>
@@ -333,10 +333,10 @@
       </damageData>
     </graphicData>
   </ThingDef>
-  
-  
+ 
+ 
     <ThingDef ParentName="FurnitureWithQualityBase">
-    <defName>GrandThrone_B</defName>
+    <defName>GrandThroneB</defName>
     <label>Love Demand Grand Throne</label>
     <drawGUIOverlay>true</drawGUIOverlay>
     <drawGUIOverlayQuality>false</drawGUIOverlayQuality>
@@ -420,10 +420,10 @@
       </damageData>
     </graphicData>
   </ThingDef>
-  
-  
+ 
+ 
     <ThingDef ParentName="FurnitureWithQualityBase">
-    <defName>GrandThrone_C</defName>
+    <defName>GrandThroneC</defName>
     <label>Fancy Sit Grand Throne</label>
     <drawGUIOverlay>true</drawGUIOverlay>
     <drawGUIOverlayQuality>false</drawGUIOverlayQuality>
@@ -507,5 +507,5 @@
       </damageData>
     </graphicData>
   </ThingDef>
-  
+ 
   </Defs>
