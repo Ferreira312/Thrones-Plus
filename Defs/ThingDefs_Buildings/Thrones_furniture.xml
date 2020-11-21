@@ -259,7 +259,6 @@
     <altitudeLayer>Building</altitudeLayer>
     <category>Building</category>
     <thingSetMakerTags><li>RewardStandardQualitySuper</li></thingSetMakerTags>
-    <interactionCellOffset>(0,0,1)</interactionCellOffset>
     <hasInteractionCell>true</hasInteractionCell>
     <statBases>
       <MaxHitPoints>150</MaxHitPoints>
@@ -346,7 +345,6 @@
     <altitudeLayer>Building</altitudeLayer>
     <category>Building</category>
     <thingSetMakerTags><li>RewardStandardQualitySuper</li></thingSetMakerTags>
-    <interactionCellOffset>(0,0,1)</interactionCellOffset>
     <hasInteractionCell>true</hasInteractionCell>
     <statBases>
       <MaxHitPoints>150</MaxHitPoints>
@@ -433,7 +431,6 @@
     <altitudeLayer>Building</altitudeLayer>
     <category>Building</category>
     <thingSetMakerTags><li>RewardStandardQualitySuper</li></thingSetMakerTags>
-    <interactionCellOffset>(0,0,1)</interactionCellOffset>
     <hasInteractionCell>true</hasInteractionCell>
     <statBases>
       <MaxHitPoints>150</MaxHitPoints>
