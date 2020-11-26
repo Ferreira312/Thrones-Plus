@@ -445,8 +445,8 @@
     <socialPropernessMatters>true</socialPropernessMatters>
     <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
     <stuffCategories>
-      <li>Metallic</li>
-      <li>Stony</li>
+      <li>Fabric</li>
+      <li>Leathery</li>
     </stuffCategories>
     <costStuffCount>300</costStuffCount>
     <costList>
@@ -494,7 +494,7 @@
     <graphicData>
       <drawSize>(2.4,2.4)</drawSize>
       <texPath>Building/Furniture/GrandThrone_C</texPath>
-      <graphicClass>Graphic_Multi</graphicClass>
+	  <graphicClass>Graphic_Multi</graphicClass>
       <shaderType>CutoutComplex</shaderType>
       <shadowData>
         <volume>(0.5,0.35,0.4)</volume>
@@ -503,6 +503,7 @@
         <rect>(0.2,0,2, 0.6, 0.6)</rect>
       </damageData>
     </graphicData>
+	<uiIconPath>Building/Furniture/GrandThrone_C_UI</uiIconPath>
   </ThingDef>
  
   </Defs>
