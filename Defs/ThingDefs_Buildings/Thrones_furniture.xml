@@ -503,7 +503,7 @@
         <rect>(0.2,0,2, 0.6, 0.6)</rect>
       </damageData>
     </graphicData>
-	<uiIconPath>Building/Furniture/GrandThrone_C_UI</uiIconPath>
+	<!--<uiIconPath>Building/Furniture/GrandThrone_C_UI</uiIconPath>-->
   </ThingDef>
  
   </Defs>
